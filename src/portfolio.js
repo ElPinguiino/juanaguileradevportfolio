@@ -199,7 +199,7 @@ const bigProjects = {
         },
         {
           name: "Source Code",
-          url: "https://github.com/ElPinguiino/joak_django_react"
+          url: "https://github.com/ElPinguiino/django_react_joak"
         }
         //  you can add extra buttons here.
       ]
