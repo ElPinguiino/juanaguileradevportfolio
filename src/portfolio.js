@@ -36,13 +36,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "FULL STACK DEVELOPER WITH AN INTEREST IN EVERY PART OF THE STACK",
+  subTitle: "FULL STACK DEVELOPER WITH AN INTEREST IN EVERY PART OF THE DEVELOPMENT PROCESS",
   skills: [
     emoji(
       "Develop highly interactive mobile-first Frontend UIs with an accompanying backend for complete functionality of web applications."
     ),
     emoji(
-      "Integration with third party services and software through the use of RESTful APIs"
+      "Integrate with third party services and software through the use of RESTful APIs"
     )
   ],
 
@@ -100,7 +100,7 @@ const educationInfo = {
       logo: require("./assets/images/wguLogo.png"),
       subHeader: "Bachelor's of Science, Cloud and Systems Adminstration",
       duration: "June 2018 - Present",
-      desc: "Currently pursuing a Bachelor's degree in Computer Science, expected to be done in June of 2022.",
+      desc: "Currently pursuing a Bachelor's degree in Cloud and Systems Adminstration, expected to be done in July of 2022.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -140,7 +140,7 @@ const workExperiences = {
       company: "Developing Life",
       companylogo: require("./assets/images/developingLife.png"),
       date: "March 2021 - Present",
-      desc: "Full Stack Developer for Developing life, working on all aspects of an application from the design to the coding to the deployment. Apps are developed and then usually deployed on Linode"
+      desc: "Full Stack Developer for Developing life, working on all aspects of an application from the design to the coding to the deployment."
     },
     {
       role: "Technical Support Engineer Level 2",
@@ -205,13 +205,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/hawthandag.png"),
-      projectName: "Hawth and AG Realty",
-      projectDesc: "A work in progress, Realty website that is being constructed using Django and React",
+      image: require("./assets/images/djangoreact.png"),
+      projectName: "Django/React CRUD Todo App",
+      projectDesc: "A simple todo app with a Django backend and a React frontend with full CRUD functionality",
       footerLink: [
         {
           name: "Source Code",
-          url: "https://github.com/ElPinguiino/hawth_and_ag"
+          url: "https://github.com/ElPinguiino/react_django_todo_app"
         }
       ]
     }
