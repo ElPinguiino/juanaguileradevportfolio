@@ -101,10 +101,6 @@ const educationInfo = {
       subHeader: "Bachelor's of Science, Cloud and Systems Adminstration",
       duration: "June 2018 - Present",
       desc: "Currently pursuing a Bachelor's degree in Cloud and Systems Adminstration, expected to be done in July of 2022.",
-      // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      // ]
     },
   ]
 };
