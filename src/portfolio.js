@@ -206,12 +206,16 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/djangoreact.png"),
-      projectName: "Django/React CRUD Todo App",
-      projectDesc: "A simple todo app with a Django backend and a React frontend with full CRUD functionality",
+      projectName: "Social Tiles WebApp",
+      projectDesc: "Full Stack App Developed using React and Sanity.io",
       footerLink: [
         {
           name: "Source Code",
           url: "https://github.com/ElPinguiino/react_django_todo_app"
+        },
+        {
+          name: "Visit Website",
+          url:"https://socialtiles.netlify.app/"
         }
       ]
     }
