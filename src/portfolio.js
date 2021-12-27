@@ -201,13 +201,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/djangoreact.png"),
+      image: require("./assets/images/logo.png"),
       projectName: "Social Tiles WebApp",
       projectDesc: "Full Stack App Developed using React and Sanity.io",
       footerLink: [
         {
           name: "Source Code",
-          url: "https://github.com/ElPinguiino/react_django_todo_app"
+          url: "https://github.com/ElPinguiino/socialmedia_app"
         },
         {
           name: "Visit Website",
