@@ -132,6 +132,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Associate Software Integrations Engineer",
+      company: "NICE CxOne",
+      companylogo: require("./assets/images/nicecxone.png"),
+      date: "February 2022 – Present",
+      desc: "Develop, Test, and Ship IVR scripts for customers and clients using propietary software that abstracts code into actions and is based on the .NET framework"
+    },
+    {
       role: "Full Stack Developer",
       company: "Developing Life",
       companylogo: require("./assets/images/developingLife.png"),
@@ -142,15 +149,8 @@ const workExperiences = {
       role: "Technical Support Engineer Level 2",
       company: "DellEMC",
       companylogo: require("./assets/images/dellEMC.png"),
-      date: "December 2014 – Present",
-      desc: "Assist customers in troubleshooting and resolving technical issues with their enterprise grade software defined storage solution",
-    },
-    {
-      role: "Team Lead",
-      company: "Via Transportation",
-      companylogo: require("./assets/images/viaTransportation.png"),
-      date: "December 2016 – October 2019",
-      desc: "Non-technical role, worked as a Team Lead for Via Transportation where I would coach, mentor, and lead a group of 10-14 agents in order to ensure KPIs were met and exceeded"
+      date: "December 2014 – January 2022",
+      desc: "Assisted customers in troubleshooting and resolving technical issues with their enterprise grade software defined storage solution",
     }
   ]
 };
