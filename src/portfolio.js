@@ -14,7 +14,7 @@ const greeting = {
   username: "Juan J. Aguilera",
   title: "Hello World",
   subTitle: emoji(
-    "Nice to meet you, my name is Juan. I am a passionate Full Stack Software Developer with a background in IT Support who has experience building web applications in a variety of Frameworks, Libraries, and Languages. Currently, I enjoy using React for the Frontend and Django for the backend but, love to build things in with whatever tools are most appropiate for the job."
+    "Nice to meet you, my name is Juan. I am a passionate Software Developer with a background in IT Support who has experience building web applications in a variety of Frameworks, Libraries, and Languages. Currently, I enjoy using React for the Frontend and Django for the backend but, love to build things in with whatever tools are most appropiate for the job."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1ubl3tsjn7tmf25pGYVt1Xo7DCNVgzNlWoNg2PHrEpH0/edit?usp=sharing",
@@ -36,7 +36,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "FULL STACK DEVELOPER WITH AN INTEREST IN EVERY PART OF THE DEVELOPMENT PROCESS",
+  subTitle: "SOFTWARE DEVELOPER WITH AN INTEREST IN EVERY PART OF THE DEVELOPMENT PROCESS",
   skills: [
     emoji(
       "Develop highly interactive mobile-first Frontend UIs with an accompanying backend for complete functionality of web applications."
@@ -248,7 +248,7 @@ const achievementSection = {
 
     {
       title: "AWS",
-      subtitle: "Currently completing my last semester of University, at the end of which, will give me the AWS certified Cloud Practioner certification and the AWS Certified SysOps Administrator ",
+      subtitle: "I have the AWS certified Cloud Practioner certification and am working towards my AWS Certified SysOps Administrator ",
       image: require("./assets/images/aws.jpg"),
       footerLink: [
         // {name: "Certification", url: ""},
