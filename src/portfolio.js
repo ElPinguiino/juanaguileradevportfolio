@@ -100,7 +100,7 @@ const educationInfo = {
       logo: require("./assets/images/wguLogo.png"),
       subHeader: "Bachelor's of Science, Cloud and Systems Adminstration",
       duration: "June 2018 - Present",
-      desc: "Currently pursuing a Bachelor's degree in Cloud and Systems Adminstration, expected to be done in July of 2022.",
+      desc: "Currently pursuing a Bachelor's degree in Cloud and Systems Adminstration, expected to be done in Early 2023.",
     },
   ]
 };
@@ -191,7 +191,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://juanofakind.kitchen"
+          url: "joakfrontend.vercel.app"
         },
         {
           name: "Source Code",
