@@ -187,7 +187,7 @@ const bigProjects = {
     {
       image: require("./assets/images/juanOfAKind.png"),
       projectName: "Juan Of A Kind",
-      projectDesc: "Website for a Food Truck that was made using Django and React",
+      projectDesc: "Website for a Food Truck that is being developed using Django and React",
       footerLink: [
         {
           name: "Visit Website",
