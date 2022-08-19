@@ -191,7 +191,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "joakfrontend.vercel.app"
+          url: "https://www.juanofakind.kitchen/"
         },
         {
           name: "Source Code",
